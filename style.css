@@ -1,0 +1,27 @@
+*{
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3{
+    text-align: center;
+}
+
+.imagen{
+    text-align: center;
+}
+
+.enlaces-recetas{
+    margin-left: 25%;
+}
+
+.texto{
+    text-align: justify;
+    height: auto;
+    width: 70%;
+    margin-left: 15%;
+    
+
+}
